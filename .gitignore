@@ -1,0 +1,16 @@
+# Environment variables - NEVER upload this
+.env
+
+# Virtual environment - no need to upload
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Database file
+*.db
+
+# VS Code settings
+.vscode/
